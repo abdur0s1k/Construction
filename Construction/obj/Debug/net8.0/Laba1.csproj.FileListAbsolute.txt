@@ -1,0 +1,14 @@
+D:\Work\С#\Construction\Construction\bin\Debug\net8.0\Laba1.exe
+D:\Work\С#\Construction\Construction\bin\Debug\net8.0\Laba1.deps.json
+D:\Work\С#\Construction\Construction\bin\Debug\net8.0\Laba1.runtimeconfig.json
+D:\Work\С#\Construction\Construction\bin\Debug\net8.0\Laba1.dll
+D:\Work\С#\Construction\Construction\bin\Debug\net8.0\Laba1.pdb
+D:\Work\С#\Construction\Construction\obj\Debug\net8.0\Laba1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Construction\Construction\obj\Debug\net8.0\Laba1.AssemblyInfoInputs.cache
+D:\Work\С#\Construction\Construction\obj\Debug\net8.0\Laba1.AssemblyInfo.cs
+D:\Work\С#\Construction\Construction\obj\Debug\net8.0\Laba1.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\Construction\obj\Debug\net8.0\Laba1.dll
+D:\Work\С#\Construction\Construction\obj\Debug\net8.0\refint\Laba1.dll
+D:\Work\С#\Construction\Construction\obj\Debug\net8.0\Laba1.pdb
+D:\Work\С#\Construction\Construction\obj\Debug\net8.0\Laba1.genruntimeconfig.cache
+D:\Work\С#\Construction\Construction\obj\Debug\net8.0\ref\Laba1.dll
