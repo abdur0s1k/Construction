@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laba2", "Laba2\Laba2.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laba3", "Laba3\Laba3.csproj", "{D82013CF-D84E-4D64-8B76-C09DFD64B30F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console1", "Console1\Console1.csproj", "{61F97612-E894-4EE2-A04A-A9DA4ADB3E68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console1", "Console1\Console1.csproj", "{61F97612-E894-4EE2-A04A-A9DA4ADB3E68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console2", "Console2\Console2.csproj", "{80E144A2-DB55-4F96-8FDF-B567822BF2B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console2", "Console2\Console2.csproj", "{80E144A2-DB55-4F96-8FDF-B567822BF2B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba4", "Laba4\Laba4.csproj", "{FC286166-72CC-4FEA-950F-D56220293CA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{80E144A2-DB55-4F96-8FDF-B567822BF2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80E144A2-DB55-4F96-8FDF-B567822BF2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80E144A2-DB55-4F96-8FDF-B567822BF2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC286166-72CC-4FEA-950F-D56220293CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC286166-72CC-4FEA-950F-D56220293CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC286166-72CC-4FEA-950F-D56220293CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC286166-72CC-4FEA-950F-D56220293CA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

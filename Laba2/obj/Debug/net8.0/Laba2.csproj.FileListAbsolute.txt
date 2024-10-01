@@ -1,0 +1,15 @@
+D:\Work\С#\Construction\Laba2\bin\Debug\net8.0\Laba2.exe
+D:\Work\С#\Construction\Laba2\bin\Debug\net8.0\Laba2.deps.json
+D:\Work\С#\Construction\Laba2\bin\Debug\net8.0\Laba2.runtimeconfig.json
+D:\Work\С#\Construction\Laba2\bin\Debug\net8.0\Laba2.dll
+D:\Work\С#\Construction\Laba2\bin\Debug\net8.0\Laba2.pdb
+D:\Work\С#\Construction\Laba2\obj\Debug\net8.0\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Construction\Laba2\obj\Debug\net8.0\Laba2.AssemblyInfoInputs.cache
+D:\Work\С#\Construction\Laba2\obj\Debug\net8.0\Laba2.AssemblyInfo.cs
+D:\Work\С#\Construction\Laba2\obj\Debug\net8.0\Laba2.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\Laba2\obj\Debug\net8.0\Laba2.sourcelink.json
+D:\Work\С#\Construction\Laba2\obj\Debug\net8.0\Laba2.dll
+D:\Work\С#\Construction\Laba2\obj\Debug\net8.0\refint\Laba2.dll
+D:\Work\С#\Construction\Laba2\obj\Debug\net8.0\Laba2.pdb
+D:\Work\С#\Construction\Laba2\obj\Debug\net8.0\Laba2.genruntimeconfig.cache
+D:\Work\С#\Construction\Laba2\obj\Debug\net8.0\ref\Laba2.dll
