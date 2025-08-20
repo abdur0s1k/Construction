@@ -1,0 +1,5 @@
+D:\Work\С#\Construction\laba8\obj\Debug\net8.0\laba8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Construction\laba8\obj\Debug\net8.0\laba8.AssemblyInfoInputs.cache
+D:\Work\С#\Construction\laba8\obj\Debug\net8.0\laba8.AssemblyInfo.cs
+D:\Work\С#\Construction\laba8\obj\Debug\net8.0\laba8.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\laba8\obj\Debug\net8.0\laba8.sourcelink.json

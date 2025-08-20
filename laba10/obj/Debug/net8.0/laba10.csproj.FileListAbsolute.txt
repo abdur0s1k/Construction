@@ -1,0 +1,15 @@
+D:\Work\С#\Construction\laba10\bin\Debug\net8.0\laba10.exe
+D:\Work\С#\Construction\laba10\bin\Debug\net8.0\laba10.deps.json
+D:\Work\С#\Construction\laba10\bin\Debug\net8.0\laba10.runtimeconfig.json
+D:\Work\С#\Construction\laba10\bin\Debug\net8.0\laba10.dll
+D:\Work\С#\Construction\laba10\bin\Debug\net8.0\laba10.pdb
+D:\Work\С#\Construction\laba10\obj\Debug\net8.0\laba10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Construction\laba10\obj\Debug\net8.0\laba10.AssemblyInfoInputs.cache
+D:\Work\С#\Construction\laba10\obj\Debug\net8.0\laba10.AssemblyInfo.cs
+D:\Work\С#\Construction\laba10\obj\Debug\net8.0\laba10.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\laba10\obj\Debug\net8.0\laba10.sourcelink.json
+D:\Work\С#\Construction\laba10\obj\Debug\net8.0\laba10.dll
+D:\Work\С#\Construction\laba10\obj\Debug\net8.0\refint\laba10.dll
+D:\Work\С#\Construction\laba10\obj\Debug\net8.0\laba10.pdb
+D:\Work\С#\Construction\laba10\obj\Debug\net8.0\laba10.genruntimeconfig.cache
+D:\Work\С#\Construction\laba10\obj\Debug\net8.0\ref\laba10.dll

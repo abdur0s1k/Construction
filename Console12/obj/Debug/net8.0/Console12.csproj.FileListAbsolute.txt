@@ -1,0 +1,5 @@
+D:\Work\С#\Construction\Console12\obj\Debug\net8.0\Console12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Construction\Console12\obj\Debug\net8.0\Console12.AssemblyInfoInputs.cache
+D:\Work\С#\Construction\Console12\obj\Debug\net8.0\Console12.AssemblyInfo.cs
+D:\Work\С#\Construction\Console12\obj\Debug\net8.0\Console12.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\Console12\obj\Debug\net8.0\Console12.sourcelink.json

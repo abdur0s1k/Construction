@@ -1,0 +1,15 @@
+D:\Work\С#\Construction\ConsoleApp1\bin\Debug\net8.0\Linq.exe
+D:\Work\С#\Construction\ConsoleApp1\bin\Debug\net8.0\Linq.deps.json
+D:\Work\С#\Construction\ConsoleApp1\bin\Debug\net8.0\Linq.runtimeconfig.json
+D:\Work\С#\Construction\ConsoleApp1\bin\Debug\net8.0\Linq.dll
+D:\Work\С#\Construction\ConsoleApp1\bin\Debug\net8.0\Linq.pdb
+D:\Work\С#\Construction\ConsoleApp1\obj\Debug\net8.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Construction\ConsoleApp1\obj\Debug\net8.0\Linq.AssemblyInfoInputs.cache
+D:\Work\С#\Construction\ConsoleApp1\obj\Debug\net8.0\Linq.AssemblyInfo.cs
+D:\Work\С#\Construction\ConsoleApp1\obj\Debug\net8.0\Linq.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\ConsoleApp1\obj\Debug\net8.0\Linq.sourcelink.json
+D:\Work\С#\Construction\ConsoleApp1\obj\Debug\net8.0\Linq.dll
+D:\Work\С#\Construction\ConsoleApp1\obj\Debug\net8.0\refint\Linq.dll
+D:\Work\С#\Construction\ConsoleApp1\obj\Debug\net8.0\Linq.pdb
+D:\Work\С#\Construction\ConsoleApp1\obj\Debug\net8.0\Linq.genruntimeconfig.cache
+D:\Work\С#\Construction\ConsoleApp1\obj\Debug\net8.0\ref\Linq.dll

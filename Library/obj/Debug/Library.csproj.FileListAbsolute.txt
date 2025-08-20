@@ -1,0 +1,15 @@
+D:\Work\С#\Construction\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\Work\С#\Construction\Library\obj\Debug\Library.Form1.resources
+D:\Work\С#\Construction\Library\obj\Debug\Library.Properties.Resources.resources
+D:\Work\С#\Construction\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\Work\С#\Construction\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\Library\bin\Debug\Library.exe.config
+D:\Work\С#\Construction\Library\bin\Debug\Library.exe
+D:\Work\С#\Construction\Library\bin\Debug\Library.pdb
+D:\Work\С#\Construction\Library\bin\Debug\EntityFramework.dll
+D:\Work\С#\Construction\Library\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\С#\Construction\Library\bin\Debug\EntityFramework.xml
+D:\Work\С#\Construction\Library\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\С#\Construction\Library\obj\Debug\Library.csproj.Up2Date
+D:\Work\С#\Construction\Library\obj\Debug\Library.exe
+D:\Work\С#\Construction\Library\obj\Debug\Library.pdb

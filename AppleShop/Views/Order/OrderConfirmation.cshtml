@@ -1,0 +1,43 @@
+﻿@model AppleShop.Models.Order
+
+<div class="container my-5" style="max-width: 800px;">
+    <div class="bg-light p-4 rounded shadow-sm border">
+        <h2 class="text-success text-center mb-4">✅ Заказ успешно оформлен</h2>
+
+        <div class="mb-4">
+            <p class="fs-5 mb-1"><strong>Номер заказа:</strong> @Model.Id</p>
+            <p class="fs-5 mb-1"><strong>Дата оформления:</strong> @Model.OrderDate.ToString("dd.MM.yyyy")</p>
+            <p class="fs-5 mb-1"><strong>Общая сумма:</strong> <span class="text-primary">@Model.Total.ToString("C")</span></p>
+        </div>
+
+        <h4 class="mt-4 mb-3 border-bottom pb-2">🛒 Состав заказа</h4>
+
+        <div class="table-responsive">
+            <table class="table table-hover align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col">Товар</th>
+                        <th scope="col">Количество</th>
+                        <th scope="col">Цена за единицу</th>
+                        <th scope="col">Сумма</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.OrderItems)
+                    {
+                            <tr>
+                                <td>@item.Product.Name</td>
+                                <td>@item.Quantity</td>
+                                <td>@item.Price.ToString("C")</td>
+                                <td>@((item.Quantity * item.Price).ToString("C"))</td>
+                            </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <div class="text-center mt-4">
+            <a href="@Url.Action("Index", "Product")" class="btn btn-outline-primary btn-lg">Вернуться в каталог</a>
+        </div>
+    </div>
+</div>

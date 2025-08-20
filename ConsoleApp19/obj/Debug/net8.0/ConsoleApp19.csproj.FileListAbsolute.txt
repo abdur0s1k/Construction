@@ -1,0 +1,15 @@
+D:\Work\С#\Construction\ConsoleApp19\bin\Debug\net8.0\ConsoleApp19.exe
+D:\Work\С#\Construction\ConsoleApp19\bin\Debug\net8.0\ConsoleApp19.deps.json
+D:\Work\С#\Construction\ConsoleApp19\bin\Debug\net8.0\ConsoleApp19.runtimeconfig.json
+D:\Work\С#\Construction\ConsoleApp19\bin\Debug\net8.0\ConsoleApp19.dll
+D:\Work\С#\Construction\ConsoleApp19\bin\Debug\net8.0\ConsoleApp19.pdb
+D:\Work\С#\Construction\ConsoleApp19\obj\Debug\net8.0\ConsoleApp19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Construction\ConsoleApp19\obj\Debug\net8.0\ConsoleApp19.AssemblyInfoInputs.cache
+D:\Work\С#\Construction\ConsoleApp19\obj\Debug\net8.0\ConsoleApp19.AssemblyInfo.cs
+D:\Work\С#\Construction\ConsoleApp19\obj\Debug\net8.0\ConsoleApp19.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\ConsoleApp19\obj\Debug\net8.0\ConsoleApp19.sourcelink.json
+D:\Work\С#\Construction\ConsoleApp19\obj\Debug\net8.0\ConsoleApp19.dll
+D:\Work\С#\Construction\ConsoleApp19\obj\Debug\net8.0\refint\ConsoleApp19.dll
+D:\Work\С#\Construction\ConsoleApp19\obj\Debug\net8.0\ConsoleApp19.pdb
+D:\Work\С#\Construction\ConsoleApp19\obj\Debug\net8.0\ConsoleApp19.genruntimeconfig.cache
+D:\Work\С#\Construction\ConsoleApp19\obj\Debug\net8.0\ref\ConsoleApp19.dll

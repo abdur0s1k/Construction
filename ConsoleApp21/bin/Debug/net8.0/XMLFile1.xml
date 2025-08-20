@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<database name="abc">
+  <table_structure name="products">
+    <field Field="id" type="uint"></field>
+    <field Field="name" type="string"></field>
+    <field Field="description" type="string"></field>
+    <field Field="price" type="float"></field>
+    <field Field="quantity" type="int"></field>
+  </table_structure>
+  <table_data name="products">
+    <row>
+      <field name="id">1</field>
+      <field name="name">Coffee</field>
+      <field name="description">Freshly brewed coffee</field>
+      <field name="price">2.5</field>
+      <field name="quantity">100</field>
+    </row>
+    <row>
+      <field name="id">2</field>
+      <field name="name">Cake</field>
+      <field name="description">Delicious chocolate cake</field>
+      <field name="price">3.0</field>
+      <field name="quantity">50</field>
+    </row>
+    <row>
+      <field name="id">3</field>
+      <field name="name">Sandwich</field>
+      <field name="description">Turkey and cheese sandwich</field>
+      <field name="price">4.0</field>
+      <field name="quantity">30</field>
+    </row>
+  </table_data>
+</database>

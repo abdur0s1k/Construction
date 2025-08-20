@@ -1,0 +1,15 @@
+D:\Work\С#\Construction\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Construction\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.AssemblyInfoInputs.cache
+D:\Work\С#\Construction\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.AssemblyInfo.cs
+D:\Work\С#\Construction\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.sourcelink.json
+D:\Work\С#\Construction\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.exe
+D:\Work\С#\Construction\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.deps.json
+D:\Work\С#\Construction\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.runtimeconfig.json
+D:\Work\С#\Construction\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.dll
+D:\Work\С#\Construction\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.pdb
+D:\Work\С#\Construction\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.dll
+D:\Work\С#\Construction\ConsoleApp18\obj\Debug\net8.0\refint\ConsoleApp18.dll
+D:\Work\С#\Construction\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.pdb
+D:\Work\С#\Construction\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.genruntimeconfig.cache
+D:\Work\С#\Construction\ConsoleApp18\obj\Debug\net8.0\ref\ConsoleApp18.dll

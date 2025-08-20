@@ -1,0 +1,15 @@
+D:\Work\С#\Construction\Console4\bin\Debug\net8.0\Console4.exe
+D:\Work\С#\Construction\Console4\bin\Debug\net8.0\Console4.deps.json
+D:\Work\С#\Construction\Console4\bin\Debug\net8.0\Console4.runtimeconfig.json
+D:\Work\С#\Construction\Console4\bin\Debug\net8.0\Console4.dll
+D:\Work\С#\Construction\Console4\bin\Debug\net8.0\Console4.pdb
+D:\Work\С#\Construction\Console4\obj\Debug\net8.0\Console4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Construction\Console4\obj\Debug\net8.0\Console4.AssemblyInfoInputs.cache
+D:\Work\С#\Construction\Console4\obj\Debug\net8.0\Console4.AssemblyInfo.cs
+D:\Work\С#\Construction\Console4\obj\Debug\net8.0\Console4.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\Console4\obj\Debug\net8.0\Console4.sourcelink.json
+D:\Work\С#\Construction\Console4\obj\Debug\net8.0\Console4.dll
+D:\Work\С#\Construction\Console4\obj\Debug\net8.0\refint\Console4.dll
+D:\Work\С#\Construction\Console4\obj\Debug\net8.0\Console4.pdb
+D:\Work\С#\Construction\Console4\obj\Debug\net8.0\Console4.genruntimeconfig.cache
+D:\Work\С#\Construction\Console4\obj\Debug\net8.0\ref\Console4.dll

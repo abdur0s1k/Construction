@@ -1,0 +1,15 @@
+D:\Work\С#\Construction\game\obj\Debug\net8.0\game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Construction\game\obj\Debug\net8.0\game.AssemblyInfoInputs.cache
+D:\Work\С#\Construction\game\obj\Debug\net8.0\game.AssemblyInfo.cs
+D:\Work\С#\Construction\game\obj\Debug\net8.0\game.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\game\obj\Debug\net8.0\game.sourcelink.json
+D:\Work\С#\Construction\game\bin\Debug\net8.0\game.exe
+D:\Work\С#\Construction\game\bin\Debug\net8.0\game.deps.json
+D:\Work\С#\Construction\game\bin\Debug\net8.0\game.runtimeconfig.json
+D:\Work\С#\Construction\game\bin\Debug\net8.0\game.dll
+D:\Work\С#\Construction\game\bin\Debug\net8.0\game.pdb
+D:\Work\С#\Construction\game\obj\Debug\net8.0\game.dll
+D:\Work\С#\Construction\game\obj\Debug\net8.0\refint\game.dll
+D:\Work\С#\Construction\game\obj\Debug\net8.0\game.pdb
+D:\Work\С#\Construction\game\obj\Debug\net8.0\game.genruntimeconfig.cache
+D:\Work\С#\Construction\game\obj\Debug\net8.0\ref\game.dll

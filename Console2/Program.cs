@@ -115,6 +115,16 @@ class Program
             }
         }
 
+        Console.WriteLine("\nВведенный массив:");
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < m; j++)
+            {
+                Console.Write(array[i, j] + "\t"); 
+            }
+            Console.WriteLine(); 
+        }
+
         // Поиск наибольшего элемента в каждом столбце
         Console.WriteLine("Наибольшие элементы в каждом столбце:");
         for (int j = 0; j < m; j++)
@@ -133,7 +143,7 @@ class Program
 }
 */
 
-/*using System;
+using System;
 
 class Program
 {
@@ -158,6 +168,16 @@ class Program
                 Console.Write($"Элемент [{i}, {j}]: ");
                 matrix[i, j] = int.Parse(Console.ReadLine());
             }
+        }
+
+        Console.WriteLine("\nВведенная матрица:");
+        for (int i = 0; i < m; i++)
+        {
+            for (int j = 0; j < n; j++)
+            {
+                Console.Write(matrix[i, j] + "\t"); 
+            }
+            Console.WriteLine();  
         }
 
         // Инициализация одномерного массива для элементов, лежащих в интервале [1, 10]
@@ -196,4 +216,3 @@ class Program
         }
     }
 }
-*/

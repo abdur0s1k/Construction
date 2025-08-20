@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KpypLr35_3", "KpypLr35_3.csproj", "{631B9D6B-BD57-4FF2-DCAA-DE69F0CEBCDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{631B9D6B-BD57-4FF2-DCAA-DE69F0CEBCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631B9D6B-BD57-4FF2-DCAA-DE69F0CEBCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631B9D6B-BD57-4FF2-DCAA-DE69F0CEBCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631B9D6B-BD57-4FF2-DCAA-DE69F0CEBCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {079412EE-AAEF-47FB-B9EB-5CDA67D69C68}
+	EndGlobalSection
+EndGlobal

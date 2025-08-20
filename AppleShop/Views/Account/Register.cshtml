@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Регистрация";
+}
+
+<style>
+    .register-container {
+        max-width: 400px;
+        margin: 80px auto;
+        padding: 40px 30px;
+        border-radius: 20px;
+        box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        background-color: #ffffff;
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    .register-container h2 {
+        text-align: center;
+        margin-bottom: 30px;
+        color: #333;
+    }
+
+    .register-container input {
+        width: 100%;
+        padding: 12px 15px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        transition: border 0.3s;
+    }
+
+    .register-container input:focus {
+        border-color: #28a745;
+        outline: none;
+    }
+
+    .register-container button {
+        width: 100%;
+        padding: 12px;
+        background-color: #28a745;
+        color: white;
+        border: none;
+        border-radius: 10px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background 0.3s;
+    }
+
+    .register-container button:hover {
+        background-color: #218838;
+    }
+</style>
+
+<div class="register-container">
+    <h2>Регистрация</h2>
+    <form method="post">
+        <input name="login" placeholder="Логин" required />
+        <input name="password" placeholder="Пароль" type="password" required />
+        <button type="submit">Зарегистрироваться</button>
+    </form>
+</div>

@@ -1,0 +1,10 @@
+D:\Work\С#\Construction\Windows\obj\Debug\Windows.csproj.AssemblyReference.cache
+D:\Work\С#\Construction\Windows\obj\Debug\Windows.Properties.Resources.resources
+D:\Work\С#\Construction\Windows\obj\Debug\Windows.csproj.GenerateResource.cache
+D:\Work\С#\Construction\Windows\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\Windows\obj\Debug\Практика_14_1.Form1.resources
+D:\Work\С#\Construction\Windows\bin\Debug\Windows.exe.config
+D:\Work\С#\Construction\Windows\bin\Debug\Windows.exe
+D:\Work\С#\Construction\Windows\bin\Debug\Windows.pdb
+D:\Work\С#\Construction\Windows\obj\Debug\Windows.exe
+D:\Work\С#\Construction\Windows\obj\Debug\Windows.pdb

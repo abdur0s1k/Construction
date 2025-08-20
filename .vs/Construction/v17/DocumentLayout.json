@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\\u0421#\\Construction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C47AD711-4709-4443-B07F-EB8A87A734A1}|Zawod\\Zawod.csproj|d:\\work\\\u0441#\\construction\\zawod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47AD711-4709-4443-B07F-EB8A87A734A1}|Zawod\\Zawod.csproj|solutionrelative:zawod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\\u0421#\\Construction\\Zawod\\Program.cs",
+              "RelativeDocumentMoniker": "Zawod\\Program.cs",
+              "ToolTip": "D:\\Work\\\u0421#\\Construction\\Zawod\\Program.cs",
+              "RelativeToolTip": "Zawod\\Program.cs",
+              "ViewState": "AgIAACQCAAAAAAAAAAAAACQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:19:30.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

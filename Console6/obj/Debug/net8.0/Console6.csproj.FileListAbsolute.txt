@@ -1,0 +1,15 @@
+D:\Work\С#\Construction\Console6\bin\Debug\net8.0\Console6.exe
+D:\Work\С#\Construction\Console6\bin\Debug\net8.0\Console6.deps.json
+D:\Work\С#\Construction\Console6\bin\Debug\net8.0\Console6.runtimeconfig.json
+D:\Work\С#\Construction\Console6\bin\Debug\net8.0\Console6.dll
+D:\Work\С#\Construction\Console6\bin\Debug\net8.0\Console6.pdb
+D:\Work\С#\Construction\Console6\obj\Debug\net8.0\Console6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Construction\Console6\obj\Debug\net8.0\Console6.AssemblyInfoInputs.cache
+D:\Work\С#\Construction\Console6\obj\Debug\net8.0\Console6.AssemblyInfo.cs
+D:\Work\С#\Construction\Console6\obj\Debug\net8.0\Console6.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\Console6\obj\Debug\net8.0\Console6.sourcelink.json
+D:\Work\С#\Construction\Console6\obj\Debug\net8.0\Console6.dll
+D:\Work\С#\Construction\Console6\obj\Debug\net8.0\refint\Console6.dll
+D:\Work\С#\Construction\Console6\obj\Debug\net8.0\Console6.pdb
+D:\Work\С#\Construction\Console6\obj\Debug\net8.0\Console6.genruntimeconfig.cache
+D:\Work\С#\Construction\Console6\obj\Debug\net8.0\ref\Console6.dll

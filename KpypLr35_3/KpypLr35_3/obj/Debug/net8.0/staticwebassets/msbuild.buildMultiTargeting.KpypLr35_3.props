@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KpypLr35_3.props" />
+</Project>

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<AppleShop.Models.CartItem>
+
+<div class="container py-4">
+    <h2 class="mb-4 text-center text-primary">🛒 Ваша корзина</h2>
+
+    @if (!Model.Any())
+    {
+            <div class="alert alert-info text-center">
+                Корзина пуста. Перейдите в каталог, чтобы добавить товары.
+            </div>
+    }
+    else
+    {
+            <div class="table-responsive">
+                <table class="table table-bordered align-middle text-center shadow-sm">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Товар</th>
+                            <th>Количество</th>
+                            <th>Цена</th>
+                            <th>Итого</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    @foreach (var item in Model)
+                    {
+                                <tr>
+                                    <td class="fw-semibold">@item.Product.Name</td>
+                                    <td>@item.Quantity</td>
+                                    <td>@item.Product.Price.ToString("C")</td>
+                                    <td class="text-success">@((item.Quantity * item.Product.Price).ToString("C"))</td>
+                                    <td>
+                                        <form asp-action="RemoveFromCart" method="post" class="d-inline">
+                                            <input type="hidden" name="id" value="@item.Id" />
+                                            <button type="submit" class="btn btn-outline-danger btn-sm">
+                                                ❌ Удалить
+                                            </button>
+                                        </form>
+                                    </td>
+                                </tr>
+                    }
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="text-end mt-4">
+                <a asp-action="Checkout" asp-controller="Order" class="btn btn-success btn-lg">
+                    ✅ Оформить заказ
+                </a>
+            </div>
+    }
+</div>

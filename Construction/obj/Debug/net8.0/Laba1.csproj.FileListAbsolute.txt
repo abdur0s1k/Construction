@@ -12,3 +12,4 @@ D:\Work\С#\Construction\Construction\obj\Debug\net8.0\refint\Laba1.dll
 D:\Work\С#\Construction\Construction\obj\Debug\net8.0\Laba1.pdb
 D:\Work\С#\Construction\Construction\obj\Debug\net8.0\Laba1.genruntimeconfig.cache
 D:\Work\С#\Construction\Construction\obj\Debug\net8.0\ref\Laba1.dll
+D:\Work\С#\Construction\Construction\obj\Debug\net8.0\Laba1.sourcelink.json

@@ -1,0 +1,45 @@
+@page
+@model KpypLr35_3.Pages.Products.IndexModel
+@{
+    ViewData["Title"] = "🛒 Список товаров";
+}
+
+<div class="container py-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="fw-bold">@ViewData["Title"]</h2>
+        <a class="btn btn-success btn-lg" asp-page="Create">➕ Добавить товар</a>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-body p-0">
+            <table class="table table-hover mb-0">
+                <thead class="table-light">
+                    <tr class="text-center align-middle">
+                        <th>📦 Название</th>
+                        <th>💰 Цена</th>
+                        <th>🏷️ Категория</th>
+                        <th style="width: 160px;">Действия</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var p in Model.Products)
+                    {
+                            <tr class="align-middle text-center">
+                                <td class="text-start">@p.Name</td>
+                                <td>@p.Price.ToString("C")</td>
+                                <td>@p.Category.Name</td>
+                                <td>
+                                    <a asp-page="Edit" asp-route-id="@p.Id" class="btn btn-sm btn-outline-primary me-2">
+                                        ✏️ Изменить
+                                    </a>
+                                    <a asp-page="Delete" asp-route-id="@p.Id" class="btn btn-sm btn-outline-danger">
+                                        🗑️ Удалить
+                                    </a>
+                                </td>
+                            </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

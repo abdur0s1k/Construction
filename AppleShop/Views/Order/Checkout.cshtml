@@ -1,0 +1,80 @@
+﻿@model AppleShop.Models.Order
+
+<h2 class="text-center my-4 text-primary fw-bold">Оформление заказа</h2>
+
+@if (ViewBag.OrderSuccess == true)
+{
+        <!-- Success Modal -->
+        <div id="successModal" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); display: flex; justify-content: center; align-items: center; z-index: 1000;">
+            <div style="background: #f8f9fa; padding: 30px; border-radius: 15px; text-align: center; max-width: 450px; width: 90%; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
+                <h3 class="text-success mb-3">✅ Заказ оформлен!</h3>
+                <p class="fs-5">Ваш заказ <strong>№@ViewBag.OrderId</strong> успешно принят!</p>
+                <p>Спасибо за покупку в магазине <strong>Яблочные Войны</strong> 🍏</p>
+                <button onclick="closeModal()" class="btn btn-primary mt-3 px-4">Вернуться в каталог</button>
+            </div>
+        </div>
+}
+else
+{
+        <!-- Confirmation Modal -->
+        <div id="confirmationModal" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); display: none; justify-content: center; align-items: center; z-index: 1000;">
+            <div style="background: white; padding: 25px; border-radius: 15px; text-align: center; max-width: 400px; width: 90%; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
+                <h3 class="text-dark mb-3">Подтверждение заказа</h3>
+                <p class="fs-5">Вы уверены, что хотите оформить заказ?</p>
+                <div class="mt-4 d-flex justify-content-center gap-3">
+                    <button onclick="submitForm()" class="btn btn-success px-4">Да</button>
+                    <button onclick="closeConfirmationModal()" class="btn btn-outline-danger px-4">Нет</button>
+                </div>
+            </div>
+        </div>
+
+        <form id="orderForm" asp-action="Checkout" method="post" class="mx-auto" style="max-width: 600px;">
+            <div class="mb-4">
+                <label asp-for="UserId" class="form-label fw-semibold">Имя</label>
+                <input asp-for="UserId" class="form-control form-control-lg" placeholder="Введите ваше имя..." />
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+
+            <!-- Пример дополнительных полей -->
+            <div class="mb-4">
+                <label for="Address" class="form-label fw-semibold">Адрес доставки</label>
+                <input type="text" id="Address" name="Address" class="form-control form-control-lg" placeholder="Введите адрес..." />
+            </div>
+
+            <div class="mb-4">
+                <label for="Phone" class="form-label fw-semibold">Телефон</label>
+                <input type="text" id="Phone" name="Phone" class="form-control form-control-lg" placeholder="+375..." />
+            </div>
+
+            <div class="text-center">
+                <button type="button" onclick="openConfirmationModal()" class="btn btn-primary btn-lg px-5">Подтвердить заказ</button>
+            </div>
+        </form>
+}
+
+@section Scripts {
+    @if (ViewBag.OrderSuccess == true)
+    {
+                <script>
+                    function closeModal() {
+                        window.location.href = '@Url.Action("Index", "Product")';
+                    }
+                </script>
+    }
+    else
+    {
+                <script>
+                    function openConfirmationModal() {
+                        document.getElementById('confirmationModal').style.display = 'flex';
+                    }
+
+                    function closeConfirmationModal() {
+                        document.getElementById('confirmationModal').style.display = 'none';
+                    }
+
+                    function submitForm() {
+                        document.getElementById('orderForm').submit();
+                    }
+                </script>
+    }
+}

@@ -1,0 +1,10 @@
+D:\Work\С#\Construction\Windows2\bin\Debug\Windows2.exe.config
+D:\Work\С#\Construction\Windows2\bin\Debug\Windows2.exe
+D:\Work\С#\Construction\Windows2\bin\Debug\Windows2.pdb
+D:\Work\С#\Construction\Windows2\obj\Debug\Windows2.csproj.AssemblyReference.cache
+D:\Work\С#\Construction\Windows2\obj\Debug\Windows2.Properties.Resources.resources
+D:\Work\С#\Construction\Windows2\obj\Debug\Windows2.csproj.GenerateResource.cache
+D:\Work\С#\Construction\Windows2\obj\Debug\Windows2.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\Windows2\obj\Debug\Windows2.exe
+D:\Work\С#\Construction\Windows2\obj\Debug\Windows2.pdb
+D:\Work\С#\Construction\Windows2\obj\Debug\Form1.Form1.resources

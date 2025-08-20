@@ -1,0 +1,15 @@
+D:\Work\С#\Construction\Console8.1\bin\Debug\net8.0\Console8.1.exe
+D:\Work\С#\Construction\Console8.1\bin\Debug\net8.0\Console8.1.deps.json
+D:\Work\С#\Construction\Console8.1\bin\Debug\net8.0\Console8.1.runtimeconfig.json
+D:\Work\С#\Construction\Console8.1\bin\Debug\net8.0\Console8.1.dll
+D:\Work\С#\Construction\Console8.1\bin\Debug\net8.0\Console8.1.pdb
+D:\Work\С#\Construction\Console8.1\obj\Debug\net8.0\Console8.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Construction\Console8.1\obj\Debug\net8.0\Console8.1.AssemblyInfoInputs.cache
+D:\Work\С#\Construction\Console8.1\obj\Debug\net8.0\Console8.1.AssemblyInfo.cs
+D:\Work\С#\Construction\Console8.1\obj\Debug\net8.0\Console8.1.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\Console8.1\obj\Debug\net8.0\Console8.1.sourcelink.json
+D:\Work\С#\Construction\Console8.1\obj\Debug\net8.0\Console8.1.dll
+D:\Work\С#\Construction\Console8.1\obj\Debug\net8.0\refint\Console8.1.dll
+D:\Work\С#\Construction\Console8.1\obj\Debug\net8.0\Console8.1.pdb
+D:\Work\С#\Construction\Console8.1\obj\Debug\net8.0\Console8.1.genruntimeconfig.cache
+D:\Work\С#\Construction\Console8.1\obj\Debug\net8.0\ref\Console8.1.dll

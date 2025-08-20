@@ -1,0 +1,26 @@
+﻿@page
+@model KpypLr35_3.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Панель управления — Store";
+}
+
+<div class="container py-5">
+    <div class="text-center mb-5">
+        <h1 class="display-4">@ViewData["Title"]</h1>
+        <p class="lead text-muted">Добро пожаловать в административную панель управления магазином</p>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-md-4 mb-3">
+            <a asp-page="/Categories/Index" class="btn btn-outline-primary btn-lg w-100 shadow-sm">
+                <i class="bi bi-tags"></i> Категории товаров
+            </a>
+        </div>
+        <div class="col-md-4 mb-3">
+            <a asp-page="/Products/Index" class="btn btn-outline-success btn-lg w-100 shadow-sm">
+                <i class="bi bi-box-seam"></i> Управление товарами
+            </a>
+        </div>
+    </div>
+</div>

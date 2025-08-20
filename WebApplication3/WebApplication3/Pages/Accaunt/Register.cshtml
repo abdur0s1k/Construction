@@ -1,0 +1,33 @@
+﻿@page
+@model WebApplication3.Pages.Accaunt.RegisterModel
+@{
+    ViewData["Title"] = "Регистрация";
+}
+
+<h3>Регистрация</h3>
+
+<form method="post">
+    <div>
+        <label asp-for="User.Name"></label>
+        <input asp-for="User.Name" />
+        <span asp-validation-for="User.Name"></span>
+    </div>
+
+    <div>
+        <label asp-for="User.Email"></label>
+        <input asp-for="User.Email" />
+        <span asp-validation-for="User.Email"></span>
+    </div>
+
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" />
+        <span asp-validation-for="Password"></span>
+    </div>
+
+    <button type="submit">Зарегистрироваться</button>
+</form>
+
+@section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+}

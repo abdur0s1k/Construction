@@ -1,0 +1,62 @@
+﻿@model IEnumerable<AppleShop.Models.Product>
+
+<div class="container my-5">
+    <h2 class="mb-4 text-center">📦 Каталог товаров</h2>
+    <div class="row">
+        <!-- Категории -->
+        <div class="col-md-3 mb-4">
+            <h4 class="mb-3">📂 Категории</h4>
+            <ul class="list-group shadow-sm">
+                <li class="list-group-item @(ViewBag.CurrentCategory == null ? "active" : "")">
+                    <a asp-action="Index" class="text-decoration-none d-block @(ViewBag.CurrentCategory == null ? "text-white" : "")">Все товары</a>
+                </li>
+                @foreach (var category in ViewBag.Categories)
+                {
+                        <li class="list-group-item @(ViewBag.CurrentCategory == category.Id ? "active" : "")">
+                            <a asp-action="Index" asp-route-categoryId="@category.Id" class="text-decoration-none d-block @(ViewBag.CurrentCategory == category.Id ? "text-white" : "")">
+                            @category.Name
+                            </a>
+                        </li>
+                }
+            </ul>
+        </div>
+
+        <!-- Товары -->
+        <div class="col-md-9">
+            <div class="row">
+                @foreach (var product in Model)
+                {
+                        <div class="col-md-4 mb-4 d-flex">
+                            <div class="card shadow-sm w-100">
+                                <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name" style="height: 200px; object-fit: cover; border-bottom: 1px solid #dee2e6;" />
+                                <div class="card-body d-flex flex-column">
+                                    <h5 class="card-title">@product.Name</h5>
+                                    <p class="card-text text-muted" style="flex-grow: 1;">@product.Description</p>
+                                    <p class="card-text fw-bold fs-5 text-primary">@product.Price.ToString("C")</p>
+                                    <form asp-action="AddToCart" asp-controller="Cart" method="post" class="mt-auto">
+                                        <input type="hidden" name="productId" value="@product.Id" />
+                                        <button type="submit" class="btn btn-success w-100">🛒 В корзину</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                }
+            </div>
+
+            <!-- Пагинация -->
+            @if (ViewBag.TotalPages > 1)
+            {
+                    <nav aria-label="Пагинация" class="mt-4">
+                        <ul class="pagination justify-content-center">
+                        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                        {
+                                    <li class="page-item @(i == ViewBag.Page ? "active" : "")">
+                                        <a class="page-link" asp-action="Index" asp-route-page="@i" asp-route-categoryId="@ViewBag.CurrentCategory">@i</a>
+                                    </li>
+                        }
+                        </ul>
+                    </nav>
+            }
+        </div>
+    </div>
+</div>

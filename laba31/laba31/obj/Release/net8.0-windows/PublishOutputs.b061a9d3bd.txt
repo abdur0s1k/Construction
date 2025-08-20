@@ -1,0 +1,5 @@
+C:\Users\prizrak\Desktop\laba31.exe
+C:\Users\prizrak\Desktop\laba31.dll
+C:\Users\prizrak\Desktop\laba31.deps.json
+C:\Users\prizrak\Desktop\laba31.runtimeconfig.json
+C:\Users\prizrak\Desktop\laba31.pdb

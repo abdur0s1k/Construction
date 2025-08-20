@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r6ZStTMgVjQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdurosik\\Desktop\\LABA311\\LABA311\\LABA311.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdurosik\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.8\\microsoft.netcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\abdurosik\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\abdurosik\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.8\\microsoft.aspnetcore.app.runtime.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

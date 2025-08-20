@@ -1,0 +1,147 @@
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\NewWindow.baml
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\NewWindow.g.cs
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31_MarkupCompile.cache
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.g.resources
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfoInputs.cache
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfo.cs
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.csproj.CoreCompileInputs.cache
+C:\Users\prizrak\Desktop\laba31\laba31\bin\Debug\net8.0-windows\laba31.exe
+C:\Users\prizrak\Desktop\laba31\laba31\bin\Debug\net8.0-windows\laba31.deps.json
+C:\Users\prizrak\Desktop\laba31\laba31\bin\Debug\net8.0-windows\laba31.runtimeconfig.json
+C:\Users\prizrak\Desktop\laba31\laba31\bin\Debug\net8.0-windows\laba31.dll
+C:\Users\prizrak\Desktop\laba31\laba31\bin\Debug\net8.0-windows\laba31.pdb
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.dll
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\refint\laba31.dll
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.pdb
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.genruntimeconfig.cache
+C:\Users\prizrak\Desktop\laba31\laba31\obj\Debug\net8.0-windows\ref\laba31.dll
+C:\Users\abdurosik\Desktop\laba31\laba31\bin\Debug\net8.0-windows\laba31.exe
+C:\Users\abdurosik\Desktop\laba31\laba31\bin\Debug\net8.0-windows\laba31.deps.json
+C:\Users\abdurosik\Desktop\laba31\laba31\bin\Debug\net8.0-windows\laba31.runtimeconfig.json
+C:\Users\abdurosik\Desktop\laba31\laba31\bin\Debug\net8.0-windows\laba31.dll
+C:\Users\abdurosik\Desktop\laba31\laba31\bin\Debug\net8.0-windows\laba31.pdb
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\NewWindow.baml
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\NewWindow.g.cs
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31_MarkupCompile.cache
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.g.resources
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfoInputs.cache
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfo.cs
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.csproj.CoreCompileInputs.cache
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.dll
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\refint\laba31.dll
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.pdb
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\laba31.genruntimeconfig.cache
+C:\Users\abdurosik\Desktop\laba31\laba31\obj\Debug\net8.0-windows\ref\laba31.dll
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\NewWindow.baml
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\NewWindow.g.cs
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\laba31_MarkupCompile.cache
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\laba31.g.resources
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\laba31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfoInputs.cache
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfo.cs
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\laba31.csproj.CoreCompileInputs.cache
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\laba31.dll
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\refint\laba31.dll
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\laba31.pdb
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\bin\Debug\net8.0-windows\laba31.exe
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\bin\Debug\net8.0-windows\laba31.deps.json
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\bin\Debug\net8.0-windows\laba31.runtimeconfig.json
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\bin\Debug\net8.0-windows\laba31.dll
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\bin\Debug\net8.0-windows\laba31.pdb
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\laba31.genruntimeconfig.cache
+C:\Users\abdurosik\Desktop\laba31 — копия\laba31\obj\Debug\net8.0-windows\ref\laba31.dll
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\NewWindow.baml
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\NewWindow.g.cs
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\laba31_MarkupCompile.cache
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\laba31.dll
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\refint\laba31.dll
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\laba31.pdb
+C:\Users\abdurosik\Desktop\laba32.2\laba31\bin\Debug\net8.0-windows\laba31.exe
+C:\Users\abdurosik\Desktop\laba32.2\laba31\bin\Debug\net8.0-windows\laba31.deps.json
+C:\Users\abdurosik\Desktop\laba32.2\laba31\bin\Debug\net8.0-windows\laba31.runtimeconfig.json
+C:\Users\abdurosik\Desktop\laba32.2\laba31\bin\Debug\net8.0-windows\laba31.dll
+C:\Users\abdurosik\Desktop\laba32.2\laba31\bin\Debug\net8.0-windows\laba31.pdb
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\laba31.g.resources
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\laba31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfoInputs.cache
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfo.cs
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\laba31.csproj.CoreCompileInputs.cache
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\laba31.genruntimeconfig.cache
+C:\Users\abdurosik\Desktop\laba32.2\laba31\obj\Debug\net8.0-windows\ref\laba31.dll
+C:\Users\abdurosik\Desktop\laba33.1\laba31\bin\Debug\net8.0-windows\laba31.exe
+C:\Users\abdurosik\Desktop\laba33.1\laba31\bin\Debug\net8.0-windows\laba31.deps.json
+C:\Users\abdurosik\Desktop\laba33.1\laba31\bin\Debug\net8.0-windows\laba31.runtimeconfig.json
+C:\Users\abdurosik\Desktop\laba33.1\laba31\bin\Debug\net8.0-windows\laba31.dll
+C:\Users\abdurosik\Desktop\laba33.1\laba31\bin\Debug\net8.0-windows\laba31.pdb
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\NewWindow.baml
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\NewWindow.g.cs
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\laba31_MarkupCompile.cache
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\laba31.g.resources
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\laba31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfoInputs.cache
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfo.cs
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\laba31.csproj.CoreCompileInputs.cache
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\laba31.dll
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\refint\laba31.dll
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\laba31.pdb
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\laba31.genruntimeconfig.cache
+C:\Users\abdurosik\Desktop\laba33.1\laba31\obj\Debug\net8.0-windows\ref\laba31.dll
+C:\Users\abdurosik\Desktop\laba33.2\laba31\bin\Debug\net8.0-windows\laba31.exe
+C:\Users\abdurosik\Desktop\laba33.2\laba31\bin\Debug\net8.0-windows\laba31.deps.json
+C:\Users\abdurosik\Desktop\laba33.2\laba31\bin\Debug\net8.0-windows\laba31.runtimeconfig.json
+C:\Users\abdurosik\Desktop\laba33.2\laba31\bin\Debug\net8.0-windows\laba31.dll
+C:\Users\abdurosik\Desktop\laba33.2\laba31\bin\Debug\net8.0-windows\laba31.pdb
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\NewWindow.baml
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\NewWindow.g.cs
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\laba31_MarkupCompile.cache
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\laba31.g.resources
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\laba31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfoInputs.cache
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfo.cs
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\laba31.csproj.CoreCompileInputs.cache
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\laba31.dll
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\refint\laba31.dll
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\laba31.pdb
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\laba31.genruntimeconfig.cache
+C:\Users\abdurosik\Desktop\laba33.2\laba31\obj\Debug\net8.0-windows\ref\laba31.dll
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\NewWindow.baml
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\NewWindow.g.cs
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\laba31_MarkupCompile.cache
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\laba31.dll
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\refint\laba31.dll
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\laba31.pdb
+C:\Users\abdurosik\Desktop\laba33.3\laba31\bin\Debug\net8.0-windows\laba31.exe
+C:\Users\abdurosik\Desktop\laba33.3\laba31\bin\Debug\net8.0-windows\laba31.deps.json
+C:\Users\abdurosik\Desktop\laba33.3\laba31\bin\Debug\net8.0-windows\laba31.runtimeconfig.json
+C:\Users\abdurosik\Desktop\laba33.3\laba31\bin\Debug\net8.0-windows\laba31.dll
+C:\Users\abdurosik\Desktop\laba33.3\laba31\bin\Debug\net8.0-windows\laba31.pdb
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\laba31.g.resources
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\laba31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfoInputs.cache
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\laba31.AssemblyInfo.cs
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\laba31.csproj.CoreCompileInputs.cache
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\laba31.genruntimeconfig.cache
+C:\Users\abdurosik\Desktop\laba33.3\laba31\obj\Debug\net8.0-windows\ref\laba31.dll

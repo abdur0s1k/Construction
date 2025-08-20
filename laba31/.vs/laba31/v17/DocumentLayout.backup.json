@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdurosik\\Desktop\\laba31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF554A7-29BE-4579-91BA-B816646C6FA1}|laba31\\laba31.csproj|c:\\users\\abdurosik\\desktop\\laba31\\laba31\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDF554A7-29BE-4579-91BA-B816646C6FA1}|laba31\\laba31.csproj|solutionrelative:laba31\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF554A7-29BE-4579-91BA-B816646C6FA1}|laba31\\laba31.csproj|c:\\users\\abdurosik\\desktop\\laba31\\laba31\\newwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDF554A7-29BE-4579-91BA-B816646C6FA1}|laba31\\laba31.csproj|solutionrelative:laba31\\newwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF554A7-29BE-4579-91BA-B816646C6FA1}|laba31\\laba31.csproj|c:\\users\\abdurosik\\desktop\\laba31\\laba31\\newwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF554A7-29BE-4579-91BA-B816646C6FA1}|laba31\\laba31.csproj|solutionrelative:laba31\\newwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF554A7-29BE-4579-91BA-B816646C6FA1}|laba31\\laba31.csproj|c:\\users\\abdurosik\\desktop\\laba31\\laba31\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF554A7-29BE-4579-91BA-B816646C6FA1}|laba31\\laba31.csproj|solutionrelative:laba31\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdurosik\\Desktop\\laba31\\laba31\\NewWindow.xaml.cs",
+              "RelativeDocumentMoniker": "laba31\\NewWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\abdurosik\\Desktop\\laba31\\laba31\\NewWindow.xaml.cs",
+              "RelativeToolTip": "laba31\\NewWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:06:32.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdurosik\\Desktop\\laba31\\laba31\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "laba31\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\abdurosik\\Desktop\\laba31\\laba31\\MainWindow.xaml.cs",
+              "RelativeToolTip": "laba31\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAACAmZmZmZkhwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:05:08.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\abdurosik\\Desktop\\laba31\\laba31\\NewWindow.xaml",
+              "RelativeDocumentMoniker": "laba31\\NewWindow.xaml",
+              "ToolTip": "C:\\Users\\abdurosik\\Desktop\\laba31\\laba31\\NewWindow.xaml",
+              "RelativeToolTip": "laba31\\NewWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T09:05:54.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\abdurosik\\Desktop\\laba31\\laba31\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "laba31\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\abdurosik\\Desktop\\laba31\\laba31\\MainWindow.xaml*",
+              "RelativeToolTip": "laba31\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T09:05:12.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

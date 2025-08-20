@@ -1,0 +1,10 @@
+D:\Work\С#\Construction\Windows3\obj\Debug\Windows3.csproj.AssemblyReference.cache
+D:\Work\С#\Construction\Windows3\obj\Debug\Windows3.Properties.Resources.resources
+D:\Work\С#\Construction\Windows3\obj\Debug\Windows3.csproj.GenerateResource.cache
+D:\Work\С#\Construction\Windows3\obj\Debug\Windows3.csproj.CoreCompileInputs.cache
+D:\Work\С#\Construction\Windows3\obj\Debug\Form1.Form1.resources
+D:\Work\С#\Construction\Windows3\bin\Debug\Windows3.exe.config
+D:\Work\С#\Construction\Windows3\bin\Debug\Windows3.exe
+D:\Work\С#\Construction\Windows3\bin\Debug\Windows3.pdb
+D:\Work\С#\Construction\Windows3\obj\Debug\Windows3.exe
+D:\Work\С#\Construction\Windows3\obj\Debug\Windows3.pdb

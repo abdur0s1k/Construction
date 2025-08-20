@@ -1,0 +1,31 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.card-header {
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.list-group-item {
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.list-group-item:last-child {
+    border-bottom: none;
+}
+
+.btn-sm {
+    min-width: 80px;
+}
+
+input.form-control-sm,
+select.form-select-sm {
+    padding: 0.25rem 0.5rem;
+}

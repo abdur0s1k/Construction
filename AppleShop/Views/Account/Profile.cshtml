@@ -1,0 +1,52 @@
+﻿@model AppleShop.Models.User
+
+@{
+    ViewData["Title"] = "Профиль";
+}
+
+<style>
+    .profile-container {
+        max-width: 500px;
+        margin: 80px auto;
+        padding: 40px 30px;
+        background-color: #f8f9fa;
+        border-radius: 20px;
+        box-shadow: 0 0 20px rgba(0,0,0,0.05);
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    .profile-header {
+        text-align: center;
+        margin-bottom: 30px;
+        font-size: 28px;
+        color: #333;
+    }
+
+    .profile-info {
+        font-size: 18px;
+        margin-bottom: 15px;
+        color: #555;
+    }
+
+    .logout-btn {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 12px 20px;
+        background-color: #dc3545;
+        color: white;
+        text-decoration: none;
+        border-radius: 10px;
+        transition: background 0.3s;
+    }
+
+    .logout-btn:hover {
+        background-color: #c82333;
+    }
+</style>
+
+<div class="profile-container">
+    <div class="profile-header">Профиль</div>
+    <div class="profile-info"><strong>Логин:</strong> @Model.Login</div>
+    <div class="profile-info"><strong>Роль:</strong> @Model.Role</div>
+    <a class="logout-btn" href="/Account/Logout">Выйти</a>
+</div>

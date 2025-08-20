@@ -1,0 +1,35 @@
+﻿@page
+@model WebApplication3.Pages.Accaunt.AccountModel
+@{
+    ViewData["Title"] = "Аккаунт";
+}
+
+<h3>Аккаунт</h3>
+
+@if (Model.UserData == null)
+{
+        <p>Загрузка...</p>
+}
+else
+{
+        <form method="post">
+            <div>
+                <label asp-for="UserData.Name">Имя:</label>
+                <input asp-for="UserData.Name" />
+            </div>
+
+            <div>
+                <label>Email:</label>
+                <span>@Model.UserData.Email</span>
+            </div>
+
+            <div>
+                <label>Новый пароль:</label>
+                <input asp-for="NewPassword" type="password" />
+            </div>
+
+            <button type="submit" name="action" value="save">Сохранить</button>
+            <button type="submit" name="action" value="delete">Удалить аккаунт</button>
+            <button type="submit" name="action" value="logout">Выйти</button>
+        </form>
+}

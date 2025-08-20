@@ -1,0 +1,93 @@
+﻿<Window x:Class="WpfAppGradient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Window.Resources>
+        <!-- Ресурсы для темы -->
+        <FontFamily x:Key="SelectedFontFamily">Segoe UI</FontFamily>
+        <sys:Double x:Key="SelectedFontSize">14</sys:Double>
+        <SolidColorBrush x:Key="SelectedFontColor" Color="Black"/>
+
+        <!-- Градиентный фон для текстовых полей -->
+        <Style x:Key="GradientTextBoxStyle" TargetType="TextBox">
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#FFC0C0FF" Offset="0"/>
+                        <GradientStop Color="#FF8080FF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="AcceptsReturn" Value="True"/>
+            <Setter Property="VerticalScrollBarVisibility" Value="Auto"/>
+            <Setter Property="FontFamily" Value="{DynamicResource SelectedFontFamily}"/>
+            <Setter Property="FontSize" Value="{DynamicResource SelectedFontSize}"/>
+            <Setter Property="Foreground" Value="{DynamicResource SelectedFontColor}"/>
+        </Style>
+
+        <!-- Шаблон кнопки с эффектами наведения и нажатия -->
+        <Style TargetType="Button" x:Key="CustomButtonStyle">
+            <Setter Property="Background" Value="#FF4CAF50"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="8,4"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF81C784"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#FF388E3C"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Background" Value="Gray"/>
+                                <Setter Property="Foreground" Value="LightGray"/>
+                                <Setter Property="Cursor" Value="Arrow"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Выберите стиль:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+            <ComboBox x:Name="StyleSelector" Width="200" SelectionChanged="StyleSelector_SelectionChanged">
+                <ComboBoxItem Content="Стандартный" IsSelected="True"/>
+                <ComboBoxItem Content="Тема 1"/>
+                <ComboBoxItem Content="Тема 2"/>
+                <ComboBoxItem Content="Тема 3"/>
+            </ComboBox>
+        </StackPanel>
+
+        <TextBox x:Name="TextBox1" Grid.Row="1" Style="{StaticResource GradientTextBoxStyle}" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="TextBox2" Grid.Row="2" Style="{StaticResource GradientTextBoxStyle}" TextChanged="TextBox_TextChanged"/>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button x:Name="OpenButton" Content="Открыть" Width="75" Style="{StaticResource CustomButtonStyle}" Click="OpenButton_Click"/>
+            <Button x:Name="ClearButton" Content="Очистить" Width="75" Style="{StaticResource CustomButtonStyle}" Click="ClearButton_Click"/>
+            <Button x:Name="CloseButton" Content="Закрыть" Width="75" Style="{StaticResource CustomButtonStyle}" Click="CloseButton_Click" IsEnabled="False"/>
+        </StackPanel>
+    </Grid>
+</Window>

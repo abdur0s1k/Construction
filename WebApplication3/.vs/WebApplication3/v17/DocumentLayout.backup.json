@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|c:\\users\\abdurosik\\desktop\\webapplication3\\webapplication3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|c:\\users\\abdurosik\\desktop\\webapplication3\\webapplication3\\pages\\accaunt\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\accaunt\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|c:\\users\\abdurosik\\desktop\\webapplication3\\webapplication3\\pages\\accaunt\\account.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\accaunt\\account.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|c:\\users\\abdurosik\\desktop\\webapplication3\\webapplication3\\pages\\accaunt\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\accaunt\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|c:\\users\\abdurosik\\desktop\\webapplication3\\webapplication3\\pages\\accaunt\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\accaunt\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|c:\\users\\abdurosik\\desktop\\webapplication3\\webapplication3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|c:\\users\\abdurosik\\desktop\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|c:\\users\\abdurosik\\desktop\\webapplication3\\webapplication3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47EDAE22-0AE8-4CDD-8A3E-B9F03EC05AA2}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication3\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:05:12.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Pages\\Accaunt\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Accaunt\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Pages\\Accaunt\\Register.cshtml.cs",
+              "RelativeToolTip": "WebApplication3\\Pages\\Accaunt\\Register.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:02:55.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Pages\\Accaunt\\Account.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Accaunt\\Account.cshtml.cs",
+              "ToolTip": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Pages\\Accaunt\\Account.cshtml.cs",
+              "RelativeToolTip": "WebApplication3\\Pages\\Accaunt\\Account.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwEcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:02:41.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Pages\\Accaunt\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Accaunt\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Pages\\Accaunt\\Login.cshtml.cs",
+              "RelativeToolTip": "WebApplication3\\Pages\\Accaunt\\Login.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:01:45.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Pages\\Accaunt\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Accaunt\\Login.cshtml",
+              "ToolTip": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Pages\\Accaunt\\Login.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Accaunt\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T06:01:40.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T06:01:00.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:00:17.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\abdurosik\\Desktop\\WebApplication3\\WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T06:00:01.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

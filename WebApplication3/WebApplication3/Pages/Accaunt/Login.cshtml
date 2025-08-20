@@ -1,0 +1,31 @@
+﻿@page
+@model WebApplication3.Pages.Accaunt.LoginModel
+@{
+    ViewData["Title"] = "Вход";
+}
+
+<h3>Вход</h3>
+
+<form method="post">
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </div>
+
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" />
+        <span asp-validation-for="Password"></span>
+    </div>
+
+    <div>
+        <span asp-validation-summary="All"></span>
+    </div>
+
+    <button type="submit">Войти</button>
+</form>
+
+@section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+}

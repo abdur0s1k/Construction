@@ -1,0 +1,40 @@
+﻿<Window x:Class="WpfTriggerExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel Margin="20">
+
+        <CheckBox x:Name="triggerCheckBox" Content="Включить триггер" Margin="0,0,0,20"/>
+
+        <!-- Label с триггером на шрифт -->
+        <Label Content="Это Label" FontSize="16">
+            <Label.Style>
+                <Style TargetType="Label">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsChecked, ElementName=triggerCheckBox}" Value="True">
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="FontStyle" Value="Italic"/>
+                            <Setter Property="FontSize" Value="20"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Label.Style>
+        </Label>
+
+        <!-- TextBlock с триггером на фон и шрифт -->
+        <TextBlock Text="Это TextBlock" FontSize="16" Padding="5">
+            <TextBlock.Style>
+                <Style TargetType="TextBlock">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsChecked, ElementName=triggerCheckBox}" Value="True">
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="Foreground" Value="White"/>
+                            <Setter Property="Background" Value="DarkGreen"/>
+                            <Setter Property="FontSize" Value="20"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+    </StackPanel>
+</Window>
